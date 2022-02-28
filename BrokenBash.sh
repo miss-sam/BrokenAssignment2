@@ -2,7 +2,7 @@
 
 echo Hey There! Who the heck are you?
 
-read namevar
+cat namevar
 
 echo Ohhhh, okay... Hey namevar how's it going... watch this!
 
