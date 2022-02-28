@@ -4,13 +4,12 @@
 
 print("Hello!")
 
-name = str(input("Who are you?")
+name = input("Who are you? ")
 
-print("Oh, hello "+ name +"!")
+print("Oh, hello ", name, "!")
 
-question = str(input("Wanna answer a question?"))
-
-if question == 'no'
+question = str(input("Wanna answer a question? "))
+if question == 'no' :
     print("FINE!")
 elif question == 'yes':
     print("Too Bad!")
